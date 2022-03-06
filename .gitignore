@@ -113,6 +113,9 @@ venv.bak/
 # Resources
 resources/
 
+# Pycharm
+.idea/
+
 # Spyder project settings
 .spyderproject
 .spyproject

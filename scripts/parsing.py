@@ -9,8 +9,8 @@ class UlgNotFound(Exception):
 
 
 def convert_ulg_to_csv(ulog: str, msgs: str, output: str, delimiter: chr):
-    ulog = f'./resources/{ulog}.ulg'
-    output = f'./resources/{output}'
+    ulog = f'../resources/{ulog}.ulg'
+    output = f'../resources/{output}'
     if not path.exists(ulog):
         raise UlgNotFound()
     if not path.exists(output):

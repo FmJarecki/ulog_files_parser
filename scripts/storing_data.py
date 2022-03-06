@@ -4,7 +4,7 @@ from typing import Tuple
 
 
 def create_df(columns: list, output: str, ulog: str, filename: str) -> pd.DataFrame:
-    cvs_name = f'./resources/{output}/{ulog}_{filename}_0.csv'
+    cvs_name = f'../resources/{output}/{ulog}_{filename}_0.csv'
     return pd.read_csv(cvs_name, usecols=columns).dropna()
 
 

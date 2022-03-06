@@ -1,1 +1,22 @@
 # ulog_files_parser
+
+ * [scripts](./scripts)
+   * [main.py](./scripts/main.py)
+   * [analysis](./scripts/analysis.py)
+   * [file23.py](./scripts/error_value.py)
+   * [parsing.py](./scripts/parsing.py)
+   * [storing_data.py](./scripts/storing_data.py)
+
+ * [resources](./resources)
+   * [csv_files](./resources/csv_files)
+     * [log-1_vehicle_attitude_0.csv](./resources/csv_files/log-1_vehicle_attitude_0.csv)
+     * [log-1_vehicle_attitude_setpoint_0.csv](./resources/csv_files/log-1_vehicle_attitude_setpoint_0.csv)
+     * [log-1_vehicle_local_position_0.csv](./resources/csv_files/log-1_vehicle_local_position_0.csv)
+     * [log-1_vehicle_local_position_setpoint_0.csv](./resources/csv_files/log-1_vehicle_local_position_setpoint_0.csv)
+     * [log-2_vehicle_attitude_0.csv](./resources/csv_files/log-2_vehicle_attitude_0.csv)
+     * [log-2_vehicle_attitude_setpoint_0.csv](./resources/csv_files/log-2_vehicle_attitude_setpoint_0.csv)
+     * [log-2_vehicle_local_position_0.csv](./resources/csv_files/log-2_vehicle_local_position_0.csv)
+     * [log-2_vehicle_local_position_setpoint_0.csv](./resources/csv_files/log-2_vehicle_local_position_setpoint_0.csv)
+   * [log-2.ulg](./resources/log-2.ulg)
+   * [log-1.ulg](./resources/log-1.ulg)
+ * [README.md](./README.md)

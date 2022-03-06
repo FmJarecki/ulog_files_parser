@@ -110,6 +110,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Resources
+resources/
+
 # Spyder project settings
 .spyderproject
 .spyproject
